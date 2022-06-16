@@ -4,3 +4,8 @@
 Regexp (regular expression) são autômatos finitos, 1a fase de compiladores - Analisador Léxico
 
 Regexp testes...
+
+Amviente WEB para textar regexp: https://regexr.com/
+
+Java Book:<br>
+https://books.goalkicker.com/JavaBook/
